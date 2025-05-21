@@ -1,18 +1,17 @@
 # 🚀 English-Vietnamese Translation Machine
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/repo?style=social)](https://github.com/yourusername/repo)
+[![GitHub stars](https://img.shields.io/github/stars/PhamQuocNam/En-Vi-Translation?style=social)](https://github.com/PhamQuocNam/En-Vi-Translation)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-> A catchy one-liner that explains what your project does and why it's awesome
+> A powerful English-to-Vietnamese neural translation system built with deep learning. Optimized for fluency, idiom handling, and large-scale datasets.
 
 ![Project Screenshot or Demo GIF](link-to-image-or-gif)
 
 ## ✨ Features
 
-- **Feature 1**: Trained on over 2M Dataset
-- **Feature 2**: Model Architecture is optimal
-- **Feature 3**: The model can recognize metaphors or idioms
-- **Easy to Use**: Emphasize user-friendly aspects
+- **Feature 1**: Built on a dataset of over 2 million translation pairs.
+- **Feature 2**: Leverages state-of-the-art transformer models for high accuracy and performance.
+- **Feature 3**: Capable of understanding idioms and metaphors, producing more natural translations.
 
 
 ## 🛠️ Installation
