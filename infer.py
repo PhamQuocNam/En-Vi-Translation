@@ -10,6 +10,7 @@ from tqdm import tqdm
 from config import Config
 logger = get_logger()
 config= Config()
+
 class Predictor:
     def __init__(self):
         self.model = BaseModel()
@@ -47,6 +48,10 @@ class Predictor:
         logger.info('Done!')
         print(f'Origin: {sentence}')
         print(f'Translation: {final_translation}')
+        return{
+            'Origin': sentence,
+            'Translated': final_translation
+        }
         
         
     

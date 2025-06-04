@@ -25,13 +25,13 @@ pip install -r requirements.txt
 ### 📁 Project Folder Structure
 ```bash
 Project/
-├── checkpoints/      
-├── en-vi-dataset/             
+├── checkpoints/      # Need to create
+├── en-vi-dataset/    # Need to create         
 ├── tests/      
 ├── utils/       
 ├── assets/           
 ├── train.py          
-├── infer.py          #
+├── infer.py          
 └── requirements.txt
 ```
 
@@ -45,7 +45,7 @@ Project/
 ```bash
 1. Place input images into the 'data_source/' folder
 2. (Optional) You can download the pretrained weights from:
-    https://drive.google.com/drive/u/0/folders/1o_JQ31oXJ-QBaAgnmXquhMkuw7F6HWDk
+    https://drive.google.com/file/d/10wmX5wAXme-yWRKBTi8-pNeQGW6Or-bS/view?usp=drive_link
  3. Run:
 python infer.py
 ```
